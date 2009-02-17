@@ -1,0 +1,6 @@
+The django-topics app supports threaded-discussions in Pinax and, in
+particular, within Pinax custom groups. This app was originally
+embedded in the old 'projects' and 'tribes' apps, but has been broken out
+as part of the refactoring of Pinax groups in version 0.7.
+
+
